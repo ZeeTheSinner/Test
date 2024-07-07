@@ -26,7 +26,7 @@ local Window = Rayfield:CreateWindow({
     }
  })
 
-local exampleTab = Window:CreateTab("Tab Example", 4483362458) -- Title, Image
+local exampleTab = Window:CreateTab("sonic", 10396165115) -- Title, Image
 
  local Button = exampleTab:CreateButton({
     Name = "ESP",
